@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ohidalgo
+Build-Jdk: 11.0.2
+Implementation-Title: inventory
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.openapitools
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/inventory
+Created-By: Maven Integration for Eclipse
+
